@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>	
+     <head>
+	 <title>HAPPY HOLI</title>
+     </head>
+	 <style>
+	  body
+	 {
+background-image:url(holi.jpg);
+	 }
+	h1
+	 {
+	 margin-top:100px;
+	 color:black;
+	 font-size:60px;
+	 text-align:center;
+	}
+	 p
+	 {
+	 border-bottom: 1px solid black;
+	 border-top: 1px solid black;
+	 font-size:25px;
+	 font-style:italic;
+	 margin-left:350px;
+	 margin-right:350px;
+	 color:black;
+	
+	 }
+	 </style>
+	<body>
+	<!--heading-->
+	<em><strong><h1>"HAPPY HOLI"</strong></h1></em>
+	<!--short para-->
+	<p>'Bright colors, water balloons, lavish gujiyas and melodious songs' are the ingredients of perfect Holi. Wish you a very happy and wonderful Holi.</p>
+	 <p><cite>with regards -->shatakshi vishnoi and family</cite></p>
+	</body>
+	</html>
